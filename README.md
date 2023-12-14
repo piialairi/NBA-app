@@ -46,8 +46,9 @@ npm install
 3. Configure environmental variables
 - Create a '.env' file in the project root
 - Add the necessary environmental variables such as 
-    - API from [API-NBA](https://rapidapi.com/api-sports/api/api-nba)
-    - Firebase configurations and API from [Firebase](https://firebase.google.com/)
+    - API key from [API-NBA](https://rapidapi.com/api-sports/api/api-nba)
+    - Firebase configurations and API key from [Firebase](https://firebase.google.com/)
+    - API key from [MapQuest](https://developer.mapquest.com/)
 
 ## Usage
 
